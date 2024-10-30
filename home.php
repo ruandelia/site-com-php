@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Equipe-site</title>
+    <title>Site</title>
 </head>
 <body>
     <header>
@@ -17,12 +17,9 @@
 
     <main>
         <article>
-            <h2>nossa Equipe!</h2>
-            <ul>
-                <li>Ruan</li>
-                <li>Rafael</li>
-                <li>Silas</li>
-            </ul>
+            <h2>Bem-vindo(a)!</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quaerat cum archite
+            </p>
         </article>
     </main>
 
