@@ -1,4 +1,7 @@
-<?php include "includes/cabecalho.php"?>
+<?php 
+$title = "Equipe - ";
+include "includes/cabecalho.php"
+?>
             <h2>nossa Equipe!</h2>
             <ul>
                 <li>Ruan</li>
