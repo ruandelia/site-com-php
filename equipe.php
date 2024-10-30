@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site</title>
+    <title>Equipe-site</title>
 </head>
 <body>
     <header>
         <h1>Site exemplo</h1>
         <nav>
-            <a href="">Home</a>
+            <a href="index.php">Home</a>
             <a href="equipe.php">Equipe</a>
             <a href="">Serviços</a>
         </nav>
@@ -17,9 +17,12 @@
 
     <main>
         <article>
-            <h2>Bem-vindo(a)!</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quaerat cum archite
-            </p>
+            <h2>nossa Equipe!</h2>
+            <ul>
+                <li>Ruan</li>
+                <li>Rafael</li>
+                <li>Silas</li>
+            </ul>
         </article>
     </main>
 
